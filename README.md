@@ -1,4 +1,4 @@
-### Alex (Chun) Chan 👋
+### 👋 Alex (Chun) Chan 
 
 **Aspiring Software Developer/Engineer**
 
@@ -6,7 +6,7 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
