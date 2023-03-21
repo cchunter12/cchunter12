@@ -1,7 +1,7 @@
-### Hi there 👋
+### Alex (Chun) Chan 👋
 
 <!--
-**cchunter12/cchunter12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Developer/Engineer**
 
 Here are some ideas to get you started:
 
