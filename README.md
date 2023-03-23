@@ -22,6 +22,6 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 ### Project Samples
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Alien Invaders Game in Python]
+[![Alien Invaders Game in Python](https://www.youtube.com/watch?v=EvtWCziTOLg&ab_channel=AlexChan)]
 
 <!-- END YOUTUBE-CARDS -->
