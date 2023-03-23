@@ -19,3 +19,9 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
           
+### Project Samples
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Alien Invaders Game in Python]
+
+<!-- END YOUTUBE-CARDS -->
