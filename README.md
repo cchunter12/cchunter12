@@ -24,7 +24,7 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=EvtWCziTOLg&ab_channel=AlexChan">
   <picture>
-    <img src="thumbnail.PNG" width="200" height="200">
+    <img src="alienInvadersPlay.PNG" width="200" height="200">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
