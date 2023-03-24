@@ -22,10 +22,9 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 ### Project Samples
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Alien Invaders Game in Python]](https://www.youtube.com/watch?v=EvtWCziTOLg&ab_channel=AlexChan)
 <a href="https://www.youtube.com/watch?v=EvtWCziTOLg&ab_channel=AlexChan">
   <picture>
-    <img src="thumbnail.PNG">
+    <img src="thumbnail.PNG" width="500" height="600">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
