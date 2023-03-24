@@ -21,7 +21,7 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
           
 ---          
           
-### Project Samples
+### 📺 Project Samples
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=EvtWCziTOLg&ab_channel=AlexChan">
