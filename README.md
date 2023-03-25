@@ -34,4 +34,10 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
     <img src="alienInvadersPlay.PNG" width="200" height="200">
   </picture>
 </a>
+<a href="https://youtu.be/X_xldrXKbrM">
+  <picture>
+    <img src="chatBotPlay.PNG" width="200" height="200">
+  </picture>
+</a>
+
 <!-- END YOUTUBE-CARDS -->
