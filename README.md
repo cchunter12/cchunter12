@@ -41,3 +41,9 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 </a>
 
 <!-- END YOUTUBE-CARDS -->
+
+#
+---
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchunter12&show_icons=true&theme=gruvbox)
