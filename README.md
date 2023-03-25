@@ -46,4 +46,4 @@ I am a Computer Science student at SFSU (expected graduation May 2024).  I have 
 ---
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchunter12&show_icons=true&theme=gruvbox)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchunter12&show_icons=true&theme=gruvbox)
